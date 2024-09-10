@@ -12,7 +12,7 @@
 
 ## Stacks
 
-| Question              | Solution |
-| --------------------- | -------- |
-| [Daily Temperature]() | [Link]() |
+| Question                                                     | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Daily Temperature](https://leetcode.com/problems/daily-temperatures/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Stacks/daily-temperature.md) |
 

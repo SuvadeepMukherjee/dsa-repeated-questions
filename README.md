@@ -16,3 +16,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Daily Temperature](https://leetcode.com/problems/daily-temperatures/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Stacks/daily-temperature.md) |
 
+## Maths
+
+| Questions             | Solution                                                     |
+| --------------------- | ------------------------------------------------------------ |
+| [Palindrome Number]() | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Math/Palindrome-number.md) |
+

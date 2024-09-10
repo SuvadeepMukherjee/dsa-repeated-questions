@@ -10,3 +10,9 @@
 | Single Number                                            | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/single-number.md) |
 | Two Sum                                                  | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) |
 
+## Stacks
+
+| Question              | Solution |
+| --------------------- | -------- |
+| [Daily Temperature]() | [Link]() |
+

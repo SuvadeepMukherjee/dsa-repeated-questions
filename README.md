@@ -59,6 +59,8 @@
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/valid-palindrome.md) |
 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/reverse-a-string.md) |
 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Link]()                                                     |
+| [Move Zeroes to End]()                                       | [Link]()                                                     |
+| [Remove duplicates from sorted Array]()                      | [Link]()                                                     |
 
 ## Mix
 

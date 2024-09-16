@@ -52,3 +52,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Max Sum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/kadenes%20algorithm/max-sum-subarray.md) |
 
+## 2 Pointers
+
+| Questions                                                    | Solution |
+| ------------------------------------------------------------ | -------- |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Link]() |
+

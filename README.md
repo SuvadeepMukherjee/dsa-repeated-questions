@@ -46,5 +46,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Max Sum Subarray of size k](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Arrays-Strings/max-sum-subarray-of-size-k.md) |
 
+## Kadenes Algorithm
 
+| Question                                                     | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Max Sum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/kadenes%20algorithm/max-sum-subarray.md) |
 

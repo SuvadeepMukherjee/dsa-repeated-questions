@@ -6,14 +6,14 @@
 
 ```javascript
 var longestCommonPrefix = function(strs) {
-    let pre = strs[0];
-    for(let word of strs){
-        for(let i=pre.length-1;i>=0;i--){
-            if(word[i]!==pre[i]){
-                pre = pre.slice(0,i);
-            }
-        }
+    strs = strs.sort();
+    let first = strs[0];
+    let end = strs[strs.length-1];
+    let res="";
+    for(let i=0;i<Math.min(first.length,end.length);i++){
+        if(first[i]!==end[i])break;
+        res+=first[i]
     }
-    return pre;
+    return res;
 };
 ```

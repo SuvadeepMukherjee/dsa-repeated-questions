@@ -65,5 +65,5 @@
 | Question                                                     | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/longest-common-prefix.md) |
-| [Rotate Array by K steps]()                                  | [Link]()                                                     |
+| [Rotate Array by K steps](https://leetcode.com/problems/rotate-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/rotate-array-by-k-steps.md) |
 

@@ -40,3 +40,11 @@
 | [Search in a rotated Sorted Array]()     | [Link]() |
 | [Search Insert position]()               | [Link]() |
 
+## Sliding Window of Fixed Size
+
+| Question                                                     | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Max Sum Subarray of size k])(https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Arrays-Strings/max-sum-subarray-of-size-k.md) |
+
+
+

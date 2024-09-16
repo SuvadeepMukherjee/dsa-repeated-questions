@@ -60,3 +60,9 @@
 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/reverse-a-string.md) |
 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Link]()                                                     |
 
+## Mix
+
+| Question                  | Solution                                                     |
+| ------------------------- | ------------------------------------------------------------ |
+| [Longest Common Prefix]() | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/longest-common-prefix.md) |
+

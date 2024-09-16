@@ -54,7 +54,7 @@
 
 ## 2 Pointers
 
-| Questions                                                    | Solution |
-| ------------------------------------------------------------ | -------- |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Link]() |
+| Questions                                                    | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/valid-palindrome.md) |
 

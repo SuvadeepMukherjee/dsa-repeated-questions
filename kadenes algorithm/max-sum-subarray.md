@@ -6,17 +6,13 @@
 
 ```javascript
 var maxSubArray = function(nums) {
-    let max=nums[0];
-    let temp=0;
+    let currSum =0;
+    let maxSum = nums[0];
     for(let i=0;i<nums.length;i++){
-        temp+=nums[i];
-        if(temp>max){
-            max=temp;
-        }
-        if(temp<0){
-            temp=0;
-        }
+        currSum = Math.max(currSum,0);
+        currSum+= nums[i];
+        maxSum = Math.max(maxSum,currSum);
     }
-    return max;
+    return maxSum;
 };
 ```

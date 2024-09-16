@@ -62,7 +62,7 @@
 
 ## Mix
 
-| Question                  | Solution                                                     |
-| ------------------------- | ------------------------------------------------------------ |
-| [Longest Common Prefix]() | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/longest-common-prefix.md) |
+| Question                                                     | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/longest-common-prefix.md) |
 

@@ -57,5 +57,5 @@
 | Questions                                                    | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/valid-palindrome.md) |
-| [Reverse String]()                                           | [Link]()                                                     |
+| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/reverse-a-string.md) |
 

@@ -2,13 +2,13 @@
 
 ## Hashing
 
-| Question                                                 | Solution                                                     |
-| -------------------------------------------------------- | ------------------------------------------------------------ |
-| Count the number of times a character occurs in a string | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/count-the-number-of-times-a-character-comes-in-a-string.md) |
-| First Unique character in a string                       | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/first-unique-character-in-string.md) |
-| Longest Consecutive Sequence                             | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/longest-consecutive-sequence.md) |
-| Single Number                                            | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/single-number.md) |
-| Two Sum                                                  | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) |
+| Question                                                     | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Count the number of times a character occurs in a string](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/count-the-number-of-times-a-character-comes-in-a-string.md) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/count-the-number-of-times-a-character-comes-in-a-string.md) |
+| [First Unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/first-unique-character-in-string.md) |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/longest-consecutive-sequence.md) |
+| [Single Number](https://leetcode.com/problems/single-number/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/single-number.md) |
+| [Two Sum](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) |
 
 ## Stacks
 
@@ -59,7 +59,7 @@
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/valid-palindrome.md) |
 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/reverse-a-string.md) |
 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Link]()                                                     |
-| [Move Zeroes to End]()                                       | [Link]()                                                     |
+| [Move Zeroes to End](https://leetcode.com/problems/move-zeroes/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/2%20pointers/move-zeroes-to-end.md) |
 | [Remove duplicates from sorted Array]()                      | [Link]()                                                     |
 
 ## Mix

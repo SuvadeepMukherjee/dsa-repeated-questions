@@ -34,14 +34,15 @@
 
 ## Binary Search
 
-| Question                                 | Solution |
-| ---------------------------------------- | -------- |
-| [Find First and Last Occurrances]()      | [Link]() |
-| [Find Minimum in Rotated Sorted Array]() | [Link]() |
-| [Find Peak Element]()                    | [Link]() |
-| [Koko Eating Bananas]()                  | [Link]() |
-| [Search in a rotated Sorted Array]()     | [Link]() |
-| [Search Insert position]()               | [Link]() |
+| Question                                                     | Solution |
+| ------------------------------------------------------------ | -------- |
+| [Find First and Last Occurrances]()                          | [Link]() |
+| [Find Minimum in Rotated Sorted Array]()                     | [Link]() |
+| [Find Peak Element]()                                        | [Link]() |
+| [Koko Eating Bananas]()                                      | [Link]() |
+| [Search in a rotated Sorted Array]()                         | [Link]() |
+| [Search Insert position]()                                   | [Link]() |
+| [Missing Element of an A.P](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1) | [Link]() |
 
 ## Sliding Window of Fixed Size
 
@@ -71,5 +72,4 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/longest-common-prefix.md) |
 | [Rotate Array by K steps](https://leetcode.com/problems/rotate-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/rotate-array-by-k-steps.md) |
-| [Missing Element of an AP]()                                 |                                                              |
 

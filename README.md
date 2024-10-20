@@ -9,12 +9,15 @@
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/longest-consecutive-sequence.md) |
 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/single-number.md) |
 | [Two Sum](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) |
+| [Majority Element](https://leetcode.com/problems/majority-element/description/) |                                                              |
+| [Anagram](https://leetcode.com/problems/valid-anagram/description/) |                                                              |
 
 ## Stacks
 
 | Question                                                     | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Daily Temperature](https://leetcode.com/problems/daily-temperatures/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Stacks/daily-temperature.md) |
+| [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) |                                                              |
 
 ## Maths
 
@@ -68,4 +71,5 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/longest-common-prefix.md) |
 | [Rotate Array by K steps](https://leetcode.com/problems/rotate-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/mix/rotate-array-by-k-steps.md) |
+| [Missing Element of an AP]()                                 |                                                              |
 

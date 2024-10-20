@@ -10,7 +10,7 @@
 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/single-number.md) |
 | [Two Sum](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) | [Link](https://github.com/SuvadeepMukherjee/dsa-repeated-questions/blob/main/Hashing/two-sum.md) |
 | [Majority Element](https://leetcode.com/problems/majority-element/description/) |                                                              |
-| [Anagram](https://leetcode.com/problems/valid-anagram/description/) |                                                              |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |                                                              |
 
 ## Stacks
 
